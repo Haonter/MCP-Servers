@@ -116,14 +116,6 @@ npx -y @modelcontextprotocol/inspector npx -y tsx main.ts
 
 Usa `zod` para validar que el input sea una IP válida en formato IPv4.
 
-### ⚠️ Nota
-
-La API `https://ip.guide/{ip}` puede estar fuera de servicio. Se recomienda reemplazarla por una más estable como:
-
-```ts
-https://ip-api.com/json/${ip}
-```
-
 ---
 
 ## 📁 Estructura del Proyecto
