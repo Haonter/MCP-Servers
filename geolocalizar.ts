@@ -9,7 +9,6 @@ const server = new McpServer({
     version: '1.0.0'
 });
 
-// Geolocalizar con axios y zod
 server.tool(
     'geolocalizar',
     'Herramienta para geolocalizar una IP y obtener información sobre la ubicación de la misma',
@@ -60,9 +59,3 @@ server.tool(
 
 const transport = new StdioServerTransport()
 await server.connect(transport)
-
-
-
-// 4. Iniciar el servidor
-// Durante el desarrollo, se puede ejecutar el servidor con el inspetor: npx -y @modelcontextprotocol/inspector npx -y tsx main.ts
-// Se ejecuta npx tsx main.ts para iniciar el servidor (tsx permite ejecutar TypeScript directamente sin necesidad de compilarlo primero)
