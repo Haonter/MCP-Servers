@@ -130,10 +130,10 @@ https://ip-api.com/json/${ip}
 
 ```
 .
-├── geolocalizar.ts         # MCP Geolocalizar
-├── onePiece.ts     # MCP OnePieceServer
-├── package.json
-└── README.md       # Este archivo
+├── geolocalizar.ts   # MCP Geolocalizar
+├── onePiece.ts       # MCP OnePieceServer
+├── package.json      # Archivo de configuracion de NPM
+└── README.md         # Este archivo
 ```
 
 ---
