@@ -1,7 +1,10 @@
-
 # MCP-Server (OnePieceServer & Geolocalizar)
 
 Este proyecto contiene dos servidores MCP desarrollados con [`@modelcontextprotocol/sdk`](https://www.npmjs.com/package/@modelcontextprotocol/sdk). Cada uno expone una herramienta útil que puede ser integrada por un cliente AI compatible con MCP.
+
+<a href="https://glama.ai/mcp/servers/@Haonter/MCP-Servers">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Haonter/MCP-Servers/badge" alt="Servers (OnePiece & Geolocalizar) MCP server" />
+</a>
 
 ---
 
