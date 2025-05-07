@@ -6,6 +6,9 @@ Este proyecto contiene dos servidores MCP desarrollados con [`@modelcontextproto
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@Haonter/MCP-Servers/badge" alt="Servers (OnePiece & Geolocalizar) MCP server" />
 </a>
 
+
+[![smithery badge](https://smithery.ai/badge/@Haonter/MCP-Servers)](https://smithery.ai/server/@Haonter/MCP-Servers)
+
 ---
 
 ## 📁 Contenido
@@ -145,3 +148,11 @@ Desarrollado por **Diego Rodríguez**
 ✉️ contacto@diegorodriguez.dev
 
 ---
+
+### Installing via Smithery
+
+To install OnePiece & Geolocalizar MCP Servers for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Haonter/MCP-Servers):
+
+```bash
+npx -y @smithery/cli install @Haonter/MCP-Servers --client claude
+```
